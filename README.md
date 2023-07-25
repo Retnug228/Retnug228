@@ -1,5 +1,4 @@
 Hi, I'm Grisha
-I want to learn and work in IT 
 
 
 <!---
